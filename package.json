@@ -1,4 +1,5 @@
 {
+  "homepage": "/umairfs/write-u",
   "name": "write-up",
   "version": "0.1.0",
   "private": true,
@@ -12,8 +13,7 @@
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.9.4",
     "tailwind": "^2.3.1",
-    "tailwindcss": "^3.4.13",
-    "web-vitals": "^2.1.4"
+    "tailwindcss": "^3.4.13"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -56,6 +56,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/umairfs/write-up/issues"
-  },
-  "homepage": "https://github.com/umairfs/write-up#readme"
+  }
 }

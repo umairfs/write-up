@@ -1,3 +1,43 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 1px solid;
+}
+
+.nav-items > ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-items > ul > li {
+    padding: 10px;
+}
+
+.write-up-logo{
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+}
+
+.body{
+    border: 1px solid;
+    margin: 10px;
+    background: darkseagreen;
+}
+
+.footer{
+    margin: 10px;
+    border: 1px solid;
+}
+
+.body-text {
+    color: darkblue;
+    font-size: 18px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.body > button{
+    margin: 10px;
+}
